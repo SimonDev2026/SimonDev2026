@@ -1,16 +1,19 @@
-## Hi there 👋
+# Chibuzor Simon — C-SIMON
 
-<!--
-**SimonDev2026/SimonDev2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer based in Brampton, Canada, building AI creator tools, SaaS platforms, and nonprofit tech.
 
-Here are some ideas to get you started:
+## What I build
+- **SocialAI Studio** — AI creator platform: video, headshots, and career tools
+- **AfriMaple** — Cultural Exchange Association of Canada: website and CMS
+- **GistBoostHub** — SMM panel SaaS
+- **BHNI** — Blissful Health Nigeria Initiative: digital platform prototype
+- **Creator Launchpad** — creator tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Next.js · TypeScript · Supabase · Vercel · Stripe · PostgreSQL
+
+## Currently
+Building SocialAI Studio.
+
+---
+Profile: https://github.com/SimonDev2026 · Website: https://socialai.website
